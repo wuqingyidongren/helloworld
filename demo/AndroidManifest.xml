@@ -33,7 +33,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
+//啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
         </activity>
 
         <!-- 监听通知 测试  dev add a-->
