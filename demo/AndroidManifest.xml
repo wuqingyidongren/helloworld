@@ -36,7 +36,7 @@
 //啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
         </activity>
 
-        <!-- 监听通知 测试  dev add a-->
+        <!-- 监听通知 测试  dev add a--> 点点滴滴啊啊啊aaa
 <!-- 另外一个用户的操作啊啊啊-->
         <service
             android:name="com.example.demo.NotificationService"
